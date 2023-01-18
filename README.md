@@ -1,0 +1,2 @@
+# Linux
+prepare for exam
